@@ -1,4 +1,4 @@
-# Portofolio_exercicios
+# Portifolio_exercicios
 # Trybe
 
 Este repositÃ³rio contÃ©m todas as atividades de aprendizagem desenvolvidas por _[SeuNomeAqui](LinkDoSeuLinkedinAqui)_ enquanto estudava na [Trybe](https://www.betrybe.com/) :rocket:
